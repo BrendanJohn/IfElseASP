@@ -13,7 +13,7 @@ If Date()>=cDate("10/28/2014") and Date()<=cDate("11/21/2014") then
 	ls_DCL_Text = "Winter Escape Event!"
 	ls_DCL_TextLine2 = "$50 Disney Gift Card!"
 
-else If Date()>=cDate("10/28/2014") and Date()<=cDate("11/21/2014") then
+elseIf Date()>=cDate("10/28/2014") and Date()<=cDate("11/21/2014") then
 	ls_DCL_Text = "$50 Disney Gift Card!"
 	ls_DCL_TextLine2 = "Special Resident Discounts!"
 
